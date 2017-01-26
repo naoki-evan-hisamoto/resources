@@ -32,3 +32,12 @@ _Don't even pretend like there's a better design tool._ [[Direct download]](http
 > Craft is a suite of plugins to let you design with real data in mind.  
 
 That and more&mdash;we use this for our [Invision](https://invisionapp) workflow.
+
+## 3. Miscellaneous Customizations
+
+#### Nice Nudge
+Set your large nudge (shift + arrow keys) to 8px (instead of the default 10), makes it easier to work within an 8 point grid. Enter this command into the terminal prompt:
+```
+defaults write ~/Library/Preferences/com.bohemiancoding.sketch3.plist nudgeDistanceBig -float 8.0
+```
+_There is a [plugin that does this](http://nudg.it) but I don't see why you'd need to adjust this more than once._
