@@ -34,5 +34,5 @@ Plugin manager for Sketch&mdash;like Homebrew, but for Sketch.
 [[Direct download link]](http://sketchtoolbox.com/Sketch%20Toolbox.zip)
 
 ## 3. Craft [:link:](https://www.invisionapp.com/craft)
-> Craft is a suite of plugins to let you design with real data in mind.    
+> Craft is a suite of plugins to let you design with real data in mind.  
 That and more&mdash;we use this for our [Invision](https://invisionapp) workflow.
