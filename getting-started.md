@@ -26,13 +26,13 @@ _From the [Treehouse blog](http://blog.teamtreehouse.com/install-node-js-npm-mac
 # Basic Design Tools
 
 ## 1. Sketch [:link:](https://sketchapp.com)
-/[[Direct download link](https://sketchapp.com/download/sketch.zip)/]
+[[Direct download link]](https://sketchapp.com/download/sketch.zip)
 
 
 ## 2. Sketch Toolbox [:link:](http://sketchtoolbox.com)
 Plugin manager for Sketch&mdash;like Homebrew, but for Sketch.    
-/[[Direct download link](http://sketchtoolbox.com/Sketch%20Toolbox.zip)/]
+[[Direct download link]](http://sketchtoolbox.com/Sketch%20Toolbox.zip)
 
 ## 3. Craft [:link:](https://www.invisionapp.com/craft)
-> Craft is a suite of plugins to let you design with real data in mind.  
+> Craft is a suite of plugins to let you design with real data in mind.    
 That and more&mdash;we use this for our [Invision](https://invisionapp) workflow.
