@@ -1,14 +1,11 @@
-# Basic Tools
+# Basic Development Tools
 A list of stuff to install when you're setting up a new laptop
 
 
 ## 1. Git / GitHub [:link:](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 1. [Set up Git and authenticate with GitHub](https://help.github.com/articles/set-up-git/)  
 _N.B. You should have installed Xcode which includes the latest version of Git_
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 ## 2. Homebrew [:link:](http://brew.sh)
 _Homebrew is a package manager that makes it easier to install other stuff_  
@@ -21,8 +18,21 @@ _From the [Treehouse blog](http://blog.teamtreehouse.com/install-node-js-npm-mac
 > Homebrew is a great tool for web developers. First, it makes removing Node very easy (otherwise you have to crawl through your file system and delete a bunch of files manually). Second, it greatly simplfies the installation of other useful packages like Git, Ruby, or the very useful wget utility.
 
 
-
-
 ## 3. Node / NPM [:link:](https://www.npmjs.com)
 1. Enter `brew install node` into a Terminal prompt.
 2. To check the install, enter `node -v; npm -v`. You should see two numbers print out which are the versions for node and npm respectively.
+
+
+# Basic Design Tools
+
+## 1. Sketch [:link:](https://sketchapp.com)
+/[[Direct download link](https://sketchapp.com/download/sketch.zip)/]
+
+
+## 2. Sketch Toolbox [:link:](http://sketchtoolbox.com)
+Plugin manager for Sketch&mdash;like Homebrew, but for Sketch.    
+/[[Direct download link](http://sketchtoolbox.com/Sketch%20Toolbox.zip)/]
+
+## 3. Craft [:link:](https://www.invisionapp.com/craft)
+> Craft is a suite of plugins to let you design with real data in mind.  
+That and more&mdash;we use this for our [Invision](https://invisionapp) workflow.
