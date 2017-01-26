@@ -5,9 +5,10 @@ A list of stuff to install when you're setting up a new laptop
 ## 1. Git / GitHub [:link:](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 1. [Set up Git and authenticate with GitHub](https://help.github.com/articles/set-up-git/)  
 _N.B. You should have installed Xcode which includes the latest version of Git_
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 2. Homebrew [:link:](http://brew.sh)
 _Homebrew is a package manager that makes it easier to install other stuff_  
